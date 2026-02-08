@@ -1,0 +1,11 @@
+PRA Rulebook – Own Funds
+
+Section 2.1:
+Common Equity Tier 1 (CET1) capital includes ordinary shares and retained earnings.
+
+Section 2.2:
+Additional Tier 1 (AT1) capital includes qualifying perpetual instruments.
+
+EBA COREP Instructions – Template C 01.00:
+Row 010: Report CET1 Capital
+Row 020: Report AT1 Capital
