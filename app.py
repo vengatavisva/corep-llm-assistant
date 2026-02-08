@@ -119,6 +119,9 @@ if COREP_SCHEMA["fields"][0]["value"] <= 0:
 # --------------------------------------------------
 # Step 8: Output results
 # --------------------------------------------------
+print("\n--- USER REPORTING SCENARIO ---")
+print("The bank has CET1 capital of £120 million and Additional Tier 1 capital of £30 million.")
+
 print("\n--- COREP TEMPLATE EXTRACT (C 01.00) ---")
 for field in COREP_SCHEMA["fields"]:
     print(f"{field['code']} | {field['name']} | £{field['value']}")
