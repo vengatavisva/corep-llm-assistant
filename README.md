@@ -150,3 +150,8 @@ This is a prototype designed to demonstrate feasibility. Future improvements cou
 ## 11. Summary
 
 This prototype demonstrates how an LLM can assist regulatory reporting by translating natural-language scenarios into structured COREP-aligned outputs with full traceability. It shows how AI can reduce manual effort, improve consistency, and increase auditability in regulatory reporting workflows.
+
+
+## Output of prototype
+
+![alt text](image.png)
